@@ -19,4 +19,3 @@
 2020.12.07 05:42:32 INFO  time: initialize in 0.39s
 2020.12.07 05:42:33 WARN  Build server is not auto-connectable.
 2020.12.07 05:42:33 WARN  no build tool detected in workspace '/Users/ashwini.p/Documents/GitHub/polygon_finding'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
-2020.12.08 22:16:07 INFO  shutting down Metals
